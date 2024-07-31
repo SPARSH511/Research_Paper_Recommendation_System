@@ -60,8 +60,10 @@ The system architecture includes data acquisition, preprocessing, TF-IDF vectori
 2. Launch the Streamlit application after running the script by opening the terminal in the directory of project.
     ```bash
     python web_ui.py
+    ```
     ```bash
     python -m streamlit run web_ui.py
+    ```
 3. Input your topic of interest.
 4. Specify the number of recommendations desired.
 5. Click on "Get Recommendations" to receive a list of relevant papers.
