@@ -72,10 +72,5 @@ This Research Paper Recommendation System empowers researchers to navigate schol
 By providing personalized recommendations and facilitating interdisciplinary connections, the system accelerates discovery and fosters collaboration. 
 I am committed to continuous improvement and expanding the system to meet the evolving needs of the research community.
 
-## Working Screenshots:
-<b> The overall interface of the web app : <\b>
-![Screenshot1](https://drive.google.com/file/d/1uHbSgL8KtoijI0WKL8KMcGI6Lk86B0lI/view?usp=sharing)
-<br> <b>What each recommendation contains ? :<\b>
-![Screenshot2](https://drive.google.com/file/d/1NR9m8PSOEJgkJMEULe02Fxo8YtCcHDdK/view?usp=sharing)
 
 
