@@ -50,10 +50,7 @@ The system architecture includes data acquisition, preprocessing, TF-IDF vectori
     cd research-paper-recommendation-system
     ```
 
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. Install the required packages. 
 
 ## Usage
 1. Extract the preprocessed data embeddings .pkl file from the zip and keep this in the same directory as the python script. 
